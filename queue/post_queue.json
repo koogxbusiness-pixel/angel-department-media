@@ -1,6 +1,6 @@
 {
  "_about": "Hand-off between the cloud MAKER (writes items) and the laptop POSTER (schedules them in TikTok Studio, Meta Business Suite, YouTube Studio and fills posted_to: scheduled | failed | skipped, plus posted_note). Times are ET. The maker copies posted_to back into AI-Video-Editing autopilot/post_queue.json and the ledger. Remove nothing; the maker archives done items.",
- "updated": "2026-11-28T00:00-05:00",
+ "updated": "2026-11-28T09:20-05:00",
  "items": {
   "2026-11-30_broad": {
    "scheduled_for_et": "2026-11-30T11:30",
@@ -18,7 +18,8 @@
     "tiktok": null,
     "instagram": null,
     "youtube": null
-   }
+   },
+   "posted_note": "Not yet: file is on Metricool's host, which the laptop shell cannot reach. Owner downloads it in Chrome into the run folder as <key>.mp4, then the poster runs again."
   },
   "2026-11-30_niche": {
    "scheduled_for_et": "2026-11-30T15:30",
@@ -36,7 +37,8 @@
     "tiktok": null,
     "instagram": null,
     "youtube": null
-   }
+   },
+   "posted_note": "Not yet: file is on Metricool's host, which the laptop shell cannot reach. Owner downloads it in Chrome into the run folder as <key>.mp4, then the poster runs again."
   },
   "2026-11-30_conversion": {
    "scheduled_for_et": "2026-11-30T17:30",
@@ -59,10 +61,11 @@
     "angel department"
    ],
    "posted_to": {
-    "tiktok": null,
-    "instagram": null,
-    "youtube": null
-   }
+    "tiktok": "scheduled",
+    "instagram": "scheduled",
+    "youtube": "scheduled"
+   },
+   "posted_note": "Scheduled Nov 28 by the poster (reel + 5-slide carousel on IG). Recorded by the cloud session because the poster could not write to GitHub."
   }
  }
 }
