@@ -1,10 +1,10 @@
 {
  "_about": "Hand-off between the cloud MAKER (writes items) and the laptop POSTER (schedules them in TikTok Studio, Meta Business Suite, YouTube Studio and fills posted_to: scheduled | failed | skipped, plus posted_note). Times are ET. The maker copies posted_to back into AI-Video-Editing autopilot/post_queue.json and the ledger. Remove nothing; the maker archives done items.",
- "updated": "2026-11-28T09:20-05:00",
+ "updated": "2026-11-28T08:05-05:00",
  "items": {
   "2026-11-30_broad": {
    "scheduled_for_et": "2026-11-30T11:30",
-   "media_url": "https://static.metricool.com/planner/202611/8097834-file-18216567282716662029.mp4",
+   "media_url": "https://raw.githubusercontent.com/koogxbusiness-pixel/angel-department-media/main/videos/2026-11-29_occasion_part2.mp4",
    "caption": "Angel Department is a men's clothing brand. We make these videos because looking right starts before you buy anything from anyone, so we teach men how to get it right first.\n\nDress codes for men explained (part 2 of 3): casual, smart casual, business casual and cocktail, and when you're not sure, go one step above the room. Then the swap system: one base of wide trousers and a fitted knit, and swap one or two pieces for work, a date or a night out.\n\nPart 3: the exact outfits.\n\n#dresscode #smartcasual #businesscasual #mensstyle #angeldepartment",
    "youtube_title": "Dress Codes for Men Explained + The Swap System (Part 2) #mensstyle",
    "youtube_tags": [
@@ -19,11 +19,11 @@
     "instagram": null,
     "youtube": null
    },
-   "posted_note": "Not yet: file is on Metricool's host, which the laptop shell cannot reach. Owner downloads it in Chrome into the run folder as <key>.mp4, then the poster runs again."
+   "posted_note": "Nov 28 maker: media_url now points at the same video hosted on GitHub (raw.githubusercontent.com), so the laptop can download it directly; no need to move files from Downloads."
   },
   "2026-11-30_niche": {
    "scheduled_for_et": "2026-11-30T15:30",
-   "media_url": "https://static.metricool.com/planner/202611/8097834-file-8970673650370490219.mp4",
+   "media_url": "https://raw.githubusercontent.com/koogxbusiness-pixel/angel-department-media/main/videos/2026-11-29_occasion_part3_drop.mp4",
    "caption": "Angel Department is a men's clothing brand. We make these videos because looking right starts before you buy anything from anyone, so we teach men how to get it right first.\n\nMen's outfits for work, a date and a night out (part 3 of 3): the Knitted Polo for work, the Henley Classic for the date, the Evening Henley or Signature Layer for the night. Same trousers morning to night, just swap the top. Ready-made looks with a size chart for every piece. First drop February 4, and every drop is limited.\n\nWe're setting up shop now. Join the waitlist for first access: link on my page.\n\n#mensoutfits #outfitideas #dateoutfit #mensstyle #angeldepartment",
    "youtube_title": "Men's Outfits for Work, a Date and a Night Out (Part 3) #mensoutfits",
    "youtube_tags": [
@@ -38,34 +38,7 @@
     "instagram": null,
     "youtube": null
    },
-   "posted_note": "Not yet: file is on Metricool's host, which the laptop shell cannot reach. Owner downloads it in Chrome into the run folder as <key>.mp4, then the poster runs again."
-  },
-  "2026-11-30_conversion": {
-   "scheduled_for_et": "2026-11-30T17:30",
-   "format": "breakdown",
-   "media_url": "https://raw.githubusercontent.com/koogxbusiness-pixel/angel-department-media/main/videos/2026-11-30_breakdown_look02.mp4",
-   "carousel_urls": [
-    "https://raw.githubusercontent.com/koogxbusiness-pixel/angel-department-media/main/carousels/2026-11-30_look02/slide_01.png",
-    "https://raw.githubusercontent.com/koogxbusiness-pixel/angel-department-media/main/carousels/2026-11-30_look02/slide_02.png",
-    "https://raw.githubusercontent.com/koogxbusiness-pixel/angel-department-media/main/carousels/2026-11-30_look02/slide_03.png",
-    "https://raw.githubusercontent.com/koogxbusiness-pixel/angel-department-media/main/carousels/2026-11-30_look02/slide_04.png",
-    "https://raw.githubusercontent.com/koogxbusiness-pixel/angel-department-media/main/carousels/2026-11-30_look02/slide_05.png"
-   ],
-   "caption": "Angel Department is a men's clothing brand. We make these videos because looking right starts before you buy anything from anyone, so we teach men how to get it right first.\n\nMen's outfit breakdown, every piece in this fit: Look 02, forest green × warm ivory. Knitted Polo 111 that follows your chest and arms without clinging. Trouser 001 in 100% cotton gabardine, 300 GSM, pre-shrunk. Brown leather loafers, because wide trousers need a shoe with some weight. First drop February 4, limited, with a size chart for every piece.\n\nWe're setting up shop now. Join the waitlist for first access: link on my page.\n\n#mensoutfit #outfitbreakdown #mensstyle #oldmoneystyle #angeldepartment",
-   "youtube_title": "Men's Outfit Breakdown: Every Piece in This Fit (Look 02) #mensstyle",
-   "youtube_tags": [
-    "mens outfit breakdown",
-    "mens outfit ideas",
-    "knit polo outfit men",
-    "wide leg trousers men",
-    "angel department"
-   ],
-   "posted_to": {
-    "tiktok": "scheduled",
-    "instagram": "scheduled",
-    "youtube": "scheduled"
-   },
-   "posted_note": "Scheduled Nov 28 by the poster (reel + 5-slide carousel on IG). Recorded by the cloud session because the poster could not write to GitHub."
+   "posted_note": "Nov 28 maker: media_url now points at the same video hosted on GitHub (raw.githubusercontent.com), so the laptop can download it directly; no need to move files from Downloads."
   }
  }
 }
